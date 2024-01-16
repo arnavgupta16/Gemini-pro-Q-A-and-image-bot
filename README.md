@@ -48,7 +48,7 @@ This project features a Q&A (Question and Answer) bot leveraging the capabilitie
 
 ## Acknowledgments
 
-This project makes use of the Gemini Pro Large Language Model, a powerful natural language processing tool.
+This project makes use of the Gemini Pro Large Language Model
 
 ## License
 
