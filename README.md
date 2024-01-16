@@ -20,7 +20,7 @@ This project features a Q&A (Question and Answer) bot leveraging the capabilitie
 2. Install the required dependencies:
   ```bash
    pip install -r requirements.txt
-```
+  ```
 3. Run the Streamlit app:
    ```bash
    streamlit run app.py
